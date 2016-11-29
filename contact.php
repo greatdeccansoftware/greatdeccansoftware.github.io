@@ -394,7 +394,7 @@ session_start();
       
     
     <!-- START COPYRIGHT -->
-    <p id="copyright">Copyright 2013 - GreatDeccanSoftware.com</p>
+    <p id="copyright">Copyright 2003 - GreatDeccanSoftware.com</p>
     <!-- END COPYRIGHT -->                                    
     
 
